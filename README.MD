@@ -1,5 +1,5 @@
 # Hello,world!
 
-I lern Net
+I studying git
 
-todey 24-04-2023 
+today 24-04-2023 
